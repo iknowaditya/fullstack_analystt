@@ -1,0 +1,18 @@
+/* src/styles.css */
+.container {
+  max-width: 1200px;
+}
+
+button {
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #e5e5e5;
+}
+
+/* Center text in card */
+.vertical-card div {
+  text-align: center;
+}
